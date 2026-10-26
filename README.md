@@ -11,3 +11,6 @@ PostgreSQL lab on core query skills using a bookstore database. It covers calcul
 
 ### Lab 4: 
 PostgreSQL lab on table joins using a music store database (products, categories, customers, orders). It covers INNER, LEFT, and RIGHT joins, multi-table joins, finding unmatched rows with IS NULL, and fixing common join mistakes such as ambiguous columns, wrong join keys, and NATURAL JOIN pitfalls.
+
+### Lab 5: 
+PostgreSQL practice with aggregate functions, GROUP BY/HAVING, NULL handling, and joins on a books database, including fixes for common query errors.
