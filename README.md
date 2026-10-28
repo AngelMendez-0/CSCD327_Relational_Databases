@@ -14,3 +14,6 @@ PostgreSQL lab on table joins using a music store database (products, categories
 
 ### Lab 5: 
 PostgreSQL practice with aggregate functions, GROUP BY/HAVING, NULL handling, and joins on a books database, including fixes for common query errors.
+
+### Lab 6: 
+Relational algebra and SQL side by side on the university schema, covering selection, projection, joins, rename, set operations, division, and query trees.
