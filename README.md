@@ -20,3 +20,6 @@ Relational algebra and SQL side by side on the university schema, covering selec
 
 ### Lab 7: 
 PostgreSQL lab exercises on subqueries against a sample sales database (sales reps, customers, orders, products and offices), covering scalar, IN/NOT IN, ANY/ALL, correlated, EXISTS/NOT EXISTS, FROM-clause and HAVING subqueries, plus CTEs and views. It also examines how NULLs can silently break NOT IN and ALL comparisons, and how to check that a subquery returns the right shape before trusting it.
+
+### Lab 8:
+PostgreSQL insert, update and delete operations, integrity constraints, cascading foreign keys, and transactions on the university schema.
